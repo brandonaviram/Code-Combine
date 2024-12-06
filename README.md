@@ -43,6 +43,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## Contact
-For questions or feedback, please reach out to [your-email@example.com].
